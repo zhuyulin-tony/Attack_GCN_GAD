@@ -3,7 +3,7 @@ A PyTorch implementation of "From Bi-Level to One-Level: A Framework for Structu
 
 ## Cite
 ```
-@ARTICLE{10433700,
+@ARTICLE{,
   author={Zhu, Yulin and Michalak, Tomasz and Luo, Xiapu and Zhang, Xiaoge and Zhou, Kai},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection}, 
