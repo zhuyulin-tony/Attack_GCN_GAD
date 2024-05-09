@@ -1,5 +1,5 @@
 # SecrecyAttack
-A PyTorch implementation of "Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks" (TIFS 2024). [[paper]](https://ieeexplore.ieee.org/abstract/document/10433700)
+A PyTorch implementation of "From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection" (TNNLS 2024).
 
 ## Cite
 ```
